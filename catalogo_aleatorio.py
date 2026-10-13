@@ -4,10 +4,10 @@ TAMANO_REGISTRO = 15
 def escribir_Registros_tamano_fijo():
 
     peliculas = [
-        "Matrix",
-        "Titanic",
+        "Troya",
+        "Cars",
         "Interstellar",
-        "Gladiator"
+        "Saw"
     ]
     flujo = open(NOMBRE_FICHERO_ALEATORIO,"w")
     for pelicula in peliculas:
