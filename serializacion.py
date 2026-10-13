@@ -1,8 +1,8 @@
 import json
 libros = [
-{"titulos": "La vaca tuvo un bebe","autor": "Anonimo","anio": "XXXX","paginas":"99"},
-{"titulos": "Hijo de la luna","autor": "Anonimo","anio": "XXXX","paginas":"199"},
-{"titulos": "Fanhrenteit 365","autor": "Anonimo","anio": "XXXX","paginas":"299"}
+{"titulos": "Leyendas de los Otori","autor": "Anonimo","anio": "XXXX","paginas":"99"},
+{"titulos": "Harry Potter","autor": "Anonimo","anio": "XXXX","paginas":"199"},
+{"titulos": "La Cupula","autor": "Anonimo","anio": "XXXX","paginas":"299"}
 ]
 
 print(libros)
