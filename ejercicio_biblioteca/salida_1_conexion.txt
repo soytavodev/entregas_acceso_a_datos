@@ -1,0 +1,4 @@
+¿Conectado? True
+Base de datos: biblioteca
+Usuario conectado: lector@localhost
+¿Conectado? False

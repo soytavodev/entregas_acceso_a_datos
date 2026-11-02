@@ -1,0 +1,6 @@
+Petición 1 -> sesión 13
+Petición 2 -> sesión 14
+Petición 3 -> sesión 15
+Petición 4 -> sesión 13
+Petición 5 -> sesión 14
+Petición 6 -> sesión 15

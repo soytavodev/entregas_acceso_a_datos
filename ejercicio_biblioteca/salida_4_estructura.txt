@@ -1,0 +1,7 @@
+Tabla socios creada y modificada
+Tabla: libros
+Tabla: socios
+Columna: id | Tipo: int
+Columna: nombre | Tipo: varchar(50)
+Columna: telefono | Tipo: varchar(15)
+Tabla socios borrada
