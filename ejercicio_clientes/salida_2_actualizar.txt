@@ -1,0 +1,11 @@
+$ python3 005-actualizar.py
+(terminado, código de salida 0)
+
+mysql> SELECT * FROM clientes;
++---------------+--------------+-------------------+----------------------+
+| Identificador | nombre       | apellidos         | email                |
++---------------+--------------+-------------------+----------------------+
+|             1 | Jose Vicente | Carratala Sanchis | info@jocarsa.com     |
+|             2 | Jose Vicente | Carratala Sanchis | info@jocarsa.com     |
+|             4 | Ana Maria    | Martinez Ruiz     | ana@martinezruiz.com |
++---------------+--------------+-------------------+----------------------+

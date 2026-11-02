@@ -1,0 +1,7 @@
+mysql> SELECT * FROM clientes;
++---------------+--------------+-------------------+------------------+
+| Identificador | nombre       | apellidos         | email            |
++---------------+--------------+-------------------+------------------+
+|             1 | Jose Vicente | Carratala Sanchis | info@jocarsa.com |
+|             2 | Jose Vicente | Carratala Sanchis | info@jocarsa.com |
++---------------+--------------+-------------------+------------------+
