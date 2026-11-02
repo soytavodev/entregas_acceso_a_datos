@@ -1,0 +1,21 @@
+Conexión correcta con MySQL
+information_schema
+performance_schema
+tienda
+Tabla creada: productos
+4 filas insertadas
+--- Todos los productos ---
+1 | Teclado | 25.00
+2 | Raton | 12.50
+3 | Monitor | 140.00
+4 | Altavoces | 30.00
+--- Productos de menos de 30 euros ---
+Teclado | 25.00
+Raton | 12.50
+Filas modificadas: 1
+Filas borradas: 1
+--- Productos después de los cambios ---
+1 | Teclado | 25.00
+3 | Monitor | 120.00
+4 | Altavoces | 30.00
+Conexión cerrada
