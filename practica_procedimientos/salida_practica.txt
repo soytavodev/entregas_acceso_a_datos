@@ -1,0 +1,21 @@
+=== Listado de libros ===
+1 - Don Quijote de la Mancha (Miguel de Cervantes) - 3 ejemplares
+2 - Novelas ejemplares (Miguel de Cervantes) - 1 ejemplares
+3 - La casa de Bernarda Alba (Federico García Lorca) - 2 ejemplares
+4 - Romancero gitano (Federico García Lorca) - 0 ejemplares
+
+=== Libros de Federico García Lorca ===
+La casa de Bernarda Alba - 2 ejemplares
+Romancero gitano - 0 ejemplares
+
+=== Total de libros ===
+Hay 4 libros en la biblioteca
+
+=== Préstamo del libro 1 ===
+Préstamo registrado
+
+=== Préstamo del libro 4 ===
+Error: No quedan ejemplares
+
+=== Prueba de permisos ===
+Acceso denegado: SELECT command denied to user 'app_biblioteca'@'localhost' for table 'libros'
